@@ -1,2 +1,3 @@
-# project-euler-splutions
-My project euler solutions.
+# project-euler-solutions
+My [project euler](https://projecteuler.net/) solutions.
+
